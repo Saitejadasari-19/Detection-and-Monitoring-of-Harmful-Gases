@@ -3,4 +3,4 @@ This project intended to avoid industrial accidents and to monitor harmful gases
 Ardunio Uno R3 board is used as central microcontroller which is connected with sensors which can continuously monitor respective environmental parameters.
 These days harmful gases leakage is the main reason for industrial accidents and depths of workers in industries.
 Due to human error and machine failures etc gas leakage accidents occur often but ceases many workers in to death beds.
-So,we are developing a basic model for detection of harmful gases and measurement of harmful gases on a self-calibrated ppm scale and notifying the workers of industry by sms in case any gas leakage is occurred in any sector of the industry.
+So,we are developing a basic model for detection of harmful gases like carbon monoxide and methane and notifying the workers of industry by sms in case any gas leakage is occurred in any sector of the industry.
